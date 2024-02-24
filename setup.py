@@ -154,4 +154,5 @@ setup(
     package_data={
         "": ["*.json"],
     },
+    include_package_data=False,
 )
