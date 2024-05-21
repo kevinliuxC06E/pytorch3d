@@ -19,7 +19,7 @@ implicitron = [
 ]
 
 [build-system]
-requires = ["setuptools", "torch == 2.1.0"]
+requires = ["setuptools == 69.5.1", "torch == 2.1.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.dynamic]
